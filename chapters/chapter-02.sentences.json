@@ -1,0 +1,59 @@
+[
+  {
+    "hanzi": "我每天早上六点起床。",
+    "pinyin": "Wǒ měi tiān zǎoshang liù diǎn qǐchuáng.",
+    "english": "I get up at six every morning.",
+    "tokens": ["我", "每天", "早上", "六点", "起床"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "你每天跑步吗？",
+    "pinyin": "Nǐ měi tiān pǎobù ma?",
+    "english": "Do you jog every day?",
+    "tokens": ["你", "每天", "跑步", "吗"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "她生病了，今天不去学校。",
+    "pinyin": "Tā shēngbìng le, jīntiān bú qù xuéxiào.",
+    "english": "She is sick and is not going to school today.",
+    "tokens": ["她", "生病", "了", "今天", "不", "去", "学校"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "我吃了药，身体很好。",
+    "pinyin": "Wǒ chī le yào, shēntǐ hěn hǎo.",
+    "english": "I took medicine, and I feel well.",
+    "tokens": ["我", "吃", "了", "药", "身体", "很", "好"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "你什么时候起床？",
+    "pinyin": "Nǐ shénme shíhou qǐchuáng?",
+    "english": "What time do you get up?",
+    "tokens": ["你", "什么时候", "起床"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "王老师很高。",
+    "pinyin": "Wáng lǎoshī hěn gāo.",
+    "english": "Teacher Wang is tall.",
+    "tokens": ["王老师", "很", "高"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "我每天晚上十点休息。",
+    "pinyin": "Wǒ měi tiān wǎnshang shí diǎn xiūxi.",
+    "english": "I rest at ten every evening.",
+    "tokens": ["我", "每天", "晚上", "十点", "休息"],
+    "chapter": 2
+  },
+  {
+    "hanzi": "他有一米八。",
+    "pinyin": "Tā yǒu Yī mǐ bā.",
+    "english": "He is 1.8 meters tall.",
+    "tokens": ["他", "有", "一米八"],
+    "chapter": 2
+  }
+]
+

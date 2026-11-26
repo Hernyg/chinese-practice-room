@@ -1,0 +1,418 @@
+[
+  {
+    "chapter": 1,
+    "hanzi": "我最喜欢喝茶。",
+    "pinyin": "Wǒ zuì xǐhuan hē chá.",
+    "english": "I like drinking tea best.",
+    "tokens": [
+      "我",
+      "最",
+      "喜欢",
+      "喝",
+      "茶",
+      "。"
+    ]
+  },
+  {
+    "chapter": 1,
+    "hanzi": "你为什么不去学校？",
+    "pinyin": "Nǐ wèishénme bù qù xuéxiào?",
+    "english": "Why aren’t you going to school?",
+    "tokens": [
+      "你",
+      "为什么",
+      "不",
+      "去",
+      "学校",
+      "？"
+    ]
+  },
+  {
+    "chapter": 1,
+    "hanzi": "它是我的猫。",
+    "pinyin": "Tā shì wǒ de māo.",
+    "english": "It is my cat.",
+    "tokens": [
+      "它",
+      "是",
+      "我",
+      "的",
+      "猫",
+      "。"
+    ]
+  },
+  {
+    "chapter": 2,
+    "hanzi": "他明天出院。",
+    "pinyin": "Tā míngtiān chūyuàn.",
+    "english": "He will leave hospital tomorrow.",
+    "tokens": [
+      "他",
+      "明天",
+      "出院",
+      "。"
+    ]
+  },
+  {
+    "chapter": 2,
+    "hanzi": "我想出去。",
+    "pinyin": "Wǒ xiǎng chū qù.",
+    "english": "I want to go out.",
+    "tokens": [
+      "我",
+      "想",
+      "出",
+      "去",
+      "。"
+    ]
+  },
+  {
+    "chapter": 2,
+    "hanzi": "你知道现在几点吗？",
+    "pinyin": "Nǐ zhīdào xiànzài jǐ diǎn ma?",
+    "english": "Do you know what time it is now?",
+    "tokens": [
+      "你",
+      "知道",
+      "现在",
+      "几",
+      "点",
+      "吗",
+      "？"
+    ]
+  },
+  {
+    "chapter": 2,
+    "hanzi": "我今天很忙，没有时间看电视。",
+    "pinyin": "Wǒ jīntiān hěn máng, méiyǒu shíjiān kàn diànshì.",
+    "english": "I’m busy today and don’t have time to watch TV.",
+    "tokens": [
+      "我",
+      "今天",
+      "很",
+      "忙",
+      "，",
+      "没有",
+      "时间",
+      "看",
+      "电视",
+      "。"
+    ]
+  },
+  {
+    "chapter": 3,
+    "hanzi": "这本书一千块。",
+    "pinyin": "Zhè běn shū yì qiān kuài.",
+    "english": "This book costs one thousand yuan.",
+    "tokens": [
+      "这",
+      "本",
+      "书",
+      "一",
+      "千",
+      "块",
+      "。"
+    ]
+  },
+  {
+    "chapter": 3,
+    "hanzi": "我想送你一本书。",
+    "pinyin": "Wǒ xiǎng sòng nǐ yì běn shū.",
+    "english": "I want to give you a book.",
+    "tokens": [
+      "我",
+      "想",
+      "送",
+      "你",
+      "一",
+      "本",
+      "书",
+      "。"
+    ]
+  },
+  {
+    "chapter": 3,
+    "hanzi": "你的新衣服真好。",
+    "pinyin": "Nǐ de xīn yīfu zhēn hǎo.",
+    "english": "Your new clothes are really nice.",
+    "tokens": [
+      "你",
+      "的",
+      "新",
+      "衣服",
+      "真",
+      "好",
+      "。"
+    ]
+  },
+  {
+    "chapter": 4,
+    "hanzi": "生日快乐！",
+    "pinyin": "Shēngrì kuàilè!",
+    "english": "Happy birthday!",
+    "tokens": [
+      "生日",
+      "快乐",
+      "！"
+    ]
+  },
+  {
+    "chapter": 4,
+    "hanzi": "他的名字很长。",
+    "pinyin": "Tā de míngzi hěn cháng.",
+    "english": "His name is long.",
+    "tokens": [
+      "他",
+      "的",
+      "名字",
+      "很",
+      "长",
+      "。"
+    ]
+  },
+  {
+    "chapter": 5,
+    "hanzi": "我准备去外面喝咖啡。",
+    "pinyin": "Wǒ zhǔnbèi qù wàimiàn hē kāfēi.",
+    "english": "I plan to go out for coffee.",
+    "tokens": [
+      "我",
+      "准备",
+      "去",
+      "外面",
+      "喝",
+      "咖啡",
+      "。"
+    ]
+  },
+  {
+    "chapter": 5,
+    "hanzi": "这件衣服还可以，就买这件吧。",
+    "pinyin": "Zhè jiàn yīfu hái kěyǐ, jiù mǎi zhè jiàn ba.",
+    "english": "This item of clothing is quite all right; let’s buy it.",
+    "tokens": [
+      "这",
+      "件",
+      "衣服",
+      "还",
+      "可以",
+      "，",
+      "就",
+      "买",
+      "这",
+      "件",
+      "吧",
+      "。"
+    ]
+  },
+  {
+    "chapter": 5,
+    "hanzi": "你知道这个字的意思吗？",
+    "pinyin": "Nǐ zhīdào zhège zì de yìsi ma?",
+    "english": "Do you know what this character means?",
+    "tokens": [
+      "你",
+      "知道",
+      "这",
+      "个",
+      "字",
+      "的",
+      "意思",
+      "吗",
+      "？"
+    ]
+  },
+  {
+    "chapter": 5,
+    "hanzi": "运动对身体很好。",
+    "pinyin": "Yùndòng duì shēntǐ hěn hǎo.",
+    "english": "Exercise is very good for your health.",
+    "tokens": [
+      "运动",
+      "对",
+      "身体",
+      "很",
+      "好",
+      "。"
+    ]
+  },
+  {
+    "chapter": 6,
+    "hanzi": "自行车在门外。",
+    "pinyin": "Zìxíngchē zài mén wài.",
+    "english": "The bicycle is outside the door.",
+    "tokens": [
+      "自行车",
+      "在",
+      "门",
+      "外",
+      "。"
+    ]
+  },
+  {
+    "chapter": 6,
+    "hanzi": "这个鱼很好吃。",
+    "pinyin": "Zhège yú hěn hǎochī.",
+    "english": "This fish is delicious.",
+    "tokens": [
+      "这",
+      "个",
+      "鱼",
+      "很",
+      "好吃",
+      "。"
+    ]
+  },
+  {
+    "chapter": 6,
+    "hanzi": "我想买两公斤苹果。",
+    "pinyin": "Wǒ xiǎng mǎi liǎng gōngjīn píngguǒ.",
+    "english": "I want to buy two kilograms of apples.",
+    "tokens": [
+      "我",
+      "想",
+      "买",
+      "两",
+      "公斤",
+      "苹果",
+      "。"
+    ]
+  },
+  {
+    "chapter": 7,
+    "hanzi": "去学校的路很长。",
+    "pinyin": "Qù xuéxiào de lù hěn cháng.",
+    "english": "The road to school is long.",
+    "tokens": [
+      "去",
+      "学校",
+      "的",
+      "路",
+      "很",
+      "长",
+      "。"
+    ]
+  },
+  {
+    "chapter": 7,
+    "hanzi": "我坐公共汽车去学校，要一个小时。",
+    "pinyin": "Wǒ zuò gōnggòng qìchē qù xuéxiào, yào yí ge xiǎoshí.",
+    "english": "I take the bus to school; it takes an hour.",
+    "tokens": [
+      "我",
+      "坐",
+      "公共汽车",
+      "去",
+      "学校",
+      "，",
+      "要",
+      "一",
+      "个",
+      "小时",
+      "。"
+    ]
+  },
+  {
+    "chapter": 7,
+    "hanzi": "这个公共汽车太慢了。",
+    "pinyin": "Zhège gōnggòng qìchē tài màn le.",
+    "english": "This bus is too slow.",
+    "tokens": [
+      "这",
+      "个",
+      "公共汽车",
+      "太",
+      "慢",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "chapter": 7,
+    "hanzi": "公共汽车真快！",
+    "pinyin": "Gōnggòng qìchē zhēn kuài!",
+    "english": "The bus is really fast!",
+    "tokens": [
+      "公共汽车",
+      "真",
+      "快",
+      "！"
+    ]
+  },
+  {
+    "chapter": 7,
+    "hanzi": "过了学校就是医院。",
+    "pinyin": "Guò le xuéxiào jiù shì yīyuàn.",
+    "english": "Past the school is the hospital.",
+    "tokens": [
+      "过",
+      "了",
+      "学校",
+      "就",
+      "是",
+      "医院",
+      "。"
+    ]
+  },
+  {
+    "chapter": 3,
+    "hanzi": "我的衣服是粉的。",
+    "pinyin": "Wǒ de yīfu shì fěn de.",
+    "english": "My clothes are pink.",
+    "tokens": [
+      "我",
+      "的",
+      "衣服",
+      "是",
+      "粉",
+      "的",
+      "。"
+    ]
+  },
+  {
+    "chapter": 3,
+    "hanzi": "那个杯子是红的。",
+    "pinyin": "Nà ge bēizi shì hóng de.",
+    "english": "That cup is red.",
+    "tokens": [
+      "那",
+      "个",
+      "杯子",
+      "是",
+      "红",
+      "的",
+      "。"
+    ]
+  },
+  {
+    "chapter": 9,
+    "hanzi": "这个字写错了。",
+    "pinyin": "Zhège zì xiě cuò le.",
+    "english": "This character was written incorrectly.",
+    "tokens": [
+      "这",
+      "个",
+      "字",
+      "写",
+      "错",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "chapter": 9,
+    "hanzi": "今天是我上班的第一天。",
+    "pinyin": "Jīntiān shì wǒ shàngbān de dì-yī tiān.",
+    "english": "Today is my first day at work.",
+    "tokens": [
+      "今天",
+      "是",
+      "我",
+      "上班",
+      "的",
+      "第一",
+      "天",
+      "。"
+    ]
+  }
+]

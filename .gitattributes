@@ -1,3 +1,5 @@
+/dist/** -text
+/chapters/** -text
 /dist/*.html -linguist-vendored -linguist-generated
 /dist/*.css -linguist-vendored -linguist-generated
 /dist/*.js -linguist-vendored -linguist-generated

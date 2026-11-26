@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "我喜欢旅游。",
+    "pinyin": "Wǒ xǐhuan lǚyóu.",
+    "english": "I like traveling.",
+    "tokens": ["我", "喜欢", "旅游"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "我们一起去北京。",
+    "pinyin": "Wǒmen yìqǐ qù Běijīng.",
+    "english": "We go to Beijing together.",
+    "tokens": ["我们", "一起", "去", "北京"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "我觉得猫很好。",
+    "pinyin": "Wǒ juéde māo hěn hǎo.",
+    "english": "I think the cat is very nice.",
+    "tokens": ["我", "觉得", "猫", "很", "好"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "他喜欢踢足球。",
+    "pinyin": "Tā xǐhuan tī zúqiú.",
+    "english": "He likes playing football.",
+    "tokens": ["他", "喜欢", "踢足球"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "今天我想运动。",
+    "pinyin": "Jīntiān wǒ xiǎng yùndòng.",
+    "english": "I want to exercise today.",
+    "tokens": ["今天", "我", "想", "运动"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "她的眼睛很大。",
+    "pinyin": "Tā de yǎnjing hěn dà.",
+    "english": "Her eyes are very big.",
+    "tokens": ["她", "的", "眼睛", "很", "大"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "我也喜欢新书。",
+    "pinyin": "Wǒ yě xǐhuan xīn shū.",
+    "english": "I also like new books.",
+    "tokens": ["我", "也", "喜欢", "新", "书"],
+    "chapter": 1
+  },
+  {
+    "hanzi": "我想要新书。",
+    "pinyin": "Wǒ xiǎng yào xīn shū.",
+    "english": "I want a new book.",
+    "tokens": ["我", "想", "要", "新", "书"],
+    "chapter": 1
+  }
+]

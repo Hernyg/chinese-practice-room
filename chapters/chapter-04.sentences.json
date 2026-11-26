@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "今天是我的生日。",
+    "pinyin": "Jīntiān shì wǒ de shēngrì.",
+    "english": "Today is my birthday.",
+    "tokens": ["今天", "是", "我", "的", "生日"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "这是给你的新书。",
+    "pinyin": "Zhè shì gěi nǐ de xīn shū.",
+    "english": "This is a new book for you.",
+    "tokens": ["这", "是", "给", "你", "的", "新", "书"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "早上我接了一个电话。",
+    "pinyin": "Zǎoshang wǒ jiē le yí ge diànhuà.",
+    "english": "I answered a phone call this morning.",
+    "tokens": ["早上", "我", "接", "了", "一个", "电话"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "晚上我问妈妈。",
+    "pinyin": "Wǎnshang wǒ wèn māma.",
+    "english": "I will ask Mom this evening.",
+    "tokens": ["晚上", "我", "问", "妈妈"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "我非常喜欢运动。",
+    "pinyin": "Wǒ fēicháng xǐhuan yùndòng.",
+    "english": "I like sports very much.",
+    "tokens": ["我", "非常", "喜欢", "运动"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "我十一岁的时候开始学习汉语。",
+    "pinyin": "Wǒ shíyī suì de shíhou kāishǐ xuéxí Hànyǔ.",
+    "english": "I started learning Chinese when I was eleven.",
+    "tokens": ["我", "十一岁", "的", "时候", "开始", "学习", "汉语"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "他已经工作两年了。",
+    "pinyin": "Tā yǐjīng gōngzuò liǎng nián le.",
+    "english": "He has already worked for two years.",
+    "tokens": ["他", "已经", "工作", "两年", "了"],
+    "chapter": 4
+  },
+  {
+    "hanzi": "王老师帮我介绍了这个工作。",
+    "pinyin": "Wáng lǎoshī bāng wǒ jièshào le zhège gōngzuò.",
+    "english": "Teacher Wang helped me get this job.",
+    "tokens": ["王老师", "帮", "我", "介绍", "了", "这个", "工作"],
+    "chapter": 4
+  }
+]

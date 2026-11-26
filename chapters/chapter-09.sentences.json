@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "今天我希望去北京。",
+    "pinyin": "Jīntiān wǒ xīwàng qù Běijīng.",
+    "english": "Today I hope to go to Beijing.",
+    "tokens": ["今天", "我", "希望", "去", "北京"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "她从七点开始上班。",
+    "pinyin": "Tā cóng qī diǎn kāishǐ shàngbān.",
+    "english": "She starts work at seven o’clock.",
+    "tokens": ["她", "从", "七", "点", "开始", "上班"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "他喜欢跳舞。",
+    "pinyin": "Tā xǐhuan tiàowǔ.",
+    "english": "He likes dancing.",
+    "tokens": ["他", "喜欢", "跳舞"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "我听懂这个问题了。",
+    "pinyin": "Wǒ tīng dǒng zhège wèntí le.",
+    "english": "I understood this question.",
+    "tokens": ["我", "听", "懂", "这", "个", "问题", "了"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "我看完了。",
+    "pinyin": "Wǒ kàn wán le.",
+    "english": "I finished reading it.",
+    "tokens": ["我", "看", "完", "了"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "欢迎你来中国。",
+    "pinyin": "Huānyíng nǐ lái Zhōngguó.",
+    "english": "Welcome to China.",
+    "tokens": ["欢迎", "你", "来", "中国"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "题太多了。",
+    "pinyin": "Tí tài duō le.",
+    "english": "There are too many questions.",
+    "tokens": ["题", "太", "多", "了"],
+    "chapter": 9
+  },
+  {
+    "hanzi": "你做完了吗？",
+    "pinyin": "Nǐ zuò wán le ma?",
+    "english": "Have you finished it?",
+    "tokens": ["你", "做", "完", "了", "吗"],
+    "chapter": 9
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "hanzi": "我今天下午再看电影。",
+    "pinyin": "Wǒ jīntiān xiàwǔ zài kàn diànyǐng.",
+    "english": "I will watch a movie again this afternoon.",
+    "tokens": [
+      "我",
+      "今天",
+      "下午",
+      "再",
+      "看",
+      "电影"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "他没有时间，明天再告诉我。",
+    "pinyin": "Tā méiyǒu shíjiān, míngtiān zài gàosu wǒ.",
+    "english": "He has no time; he will tell me tomorrow.",
+    "tokens": [
+      "他",
+      "没有",
+      "时间",
+      "明天",
+      "再",
+      "告诉",
+      "我"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "我想让她看看这件白衣服。",
+    "pinyin": "Wǒ xiǎng ràng tā kànkan zhè jiàn bái yīfu.",
+    "english": "I want to let her take a look at this white piece of clothing.",
+    "tokens": [
+      "我",
+      "想",
+      "让",
+      "她",
+      "看看",
+      "这",
+      "件",
+      "白",
+      "衣服"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "他在找他的书。",
+    "pinyin": "Tā zài zhǎo tā de shū.",
+    "english": "He is looking for his book.",
+    "tokens": [
+      "他",
+      "在",
+      "找",
+      "他",
+      "的",
+      "书"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "我等一下给你打电话。",
+    "pinyin": "Wǒ děng yíxià gěi nǐ dǎ diànhuà.",
+    "english": "I will wait a moment and call you.",
+    "tokens": [
+      "我",
+      "等",
+      "一下",
+      "给",
+      "你",
+      "打电话"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "服务员，这件衣服不贵。",
+    "pinyin": "Fúwùyuán, zhè jiàn yīfu bú guì.",
+    "english": "Waiter, this piece of clothing is not expensive.",
+    "tokens": [
+      "服务员",
+      "这",
+      "件",
+      "衣服",
+      "不",
+      "贵"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "她喜欢白的，不喜欢黑的。",
+    "pinyin": "Tā xǐhuan bái de, bù xǐhuan hēi de.",
+    "english": "She likes the white one, not the black one.",
+    "tokens": [
+      "她",
+      "喜欢",
+      "白",
+      "的",
+      "不",
+      "喜欢",
+      "黑",
+      "的"
+    ],
+    "chapter": 8
+  },
+  {
+    "hanzi": "我有事情想告诉你。",
+    "pinyin": "Wǒ yǒu shìqing xiǎng gàosu nǐ.",
+    "english": "I have something I want to tell you.",
+    "tokens": [
+      "我",
+      "有",
+      "事情",
+      "想",
+      "告诉",
+      "你"
+    ],
+    "chapter": 8
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "去年我和朋友一起唱歌。",
+    "pinyin": "Qùnián wǒ hé péngyou yìqǐ chànggē.",
+    "english": "Last year I sang together with a friend.",
+    "tokens": ["去年", "我", "和", "朋友", "一起", "唱歌", "。"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "那个男孩子喜欢唱歌。",
+    "pinyin": "Nàge nán háizi xǐhuan chànggē.",
+    "english": "That boy likes singing.",
+    "tokens": ["那", "个", "男", "孩子", "喜欢", "唱歌", "。"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "左边的女孩子在说话。",
+    "pinyin": "Zuǒbian de nǚ háizi zài shuōhuà.",
+    "english": "The girl on the left is talking.",
+    "tokens": ["左边", "的", "女", "孩子", "在", "说话", "。"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "右边那个男孩子是我哥哥。",
+    "pinyin": "Yòubian nàge nán háizi shì wǒ gēge.",
+    "english": "That boy on the right is my older brother.",
+    "tokens": ["右边", "那", "个", "男", "孩子", "是", "我", "哥哥", "。"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "今天的苹果比昨天便宜一些。",
+    "pinyin": "Jīntiān de píngguǒ bǐ zuótiān piányi yìxiē.",
+    "english": "Apples are a little cheaper today than yesterday.",
+    "tokens": ["今天", "的", "苹果", "比", "昨天", "便宜", "一些", "。"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "你可能不认识我。",
+    "pinyin": "Nǐ kěnéng bú rènshi wǒ.",
+    "english": "You may not know me.",
+    "tokens": ["你", "可能", "不", "认识", "我", "。"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "你姓什么？",
+    "pinyin": "Nǐ xìng shénme?",
+    "english": "What is your surname?",
+    "tokens": ["你", "姓", "什么", "？"],
+    "chapter": 11
+  },
+  {
+    "hanzi": "男老师比女老师大两岁。",
+    "pinyin": "Nán lǎoshī bǐ nǚ lǎoshī dà liǎng suì.",
+    "english": "The male teacher is two years older than the female teacher.",
+    "tokens": ["男", "老师", "比", "女", "老师", "大", "两", "岁", "。"],
+    "chapter": 11
+  }
+]

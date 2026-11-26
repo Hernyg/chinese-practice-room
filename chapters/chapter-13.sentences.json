@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "电视开着呢。",
+    "pinyin": "Diànshì kāizhe ne.",
+    "english": "The television is on.",
+    "tokens": ["电视", "开", "着", "呢", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "我手里拿着铅笔。",
+    "pinyin": "Wǒ shǒu li názhe qiānbǐ.",
+    "english": "I am holding a pencil.",
+    "tokens": ["我", "手", "里", "拿", "着", "铅笔", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "我们班的学生都喜欢笑。",
+    "pinyin": "Wǒmen bān de xuésheng dōu xǐhuan xiào.",
+    "english": "The students in our class all like to smile.",
+    "tokens": ["我们", "班", "的", "学生", "都", "喜欢", "笑", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "我们长大了。",
+    "pinyin": "Wǒmen zhǎngdà le.",
+    "english": "We grew up.",
+    "tokens": ["我们", "长", "大", "了", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "我住在宾馆里。",
+    "pinyin": "Wǒ zhù zài bīnguǎn li.",
+    "english": "I am staying at a hotel.",
+    "tokens": ["我", "住", "在", "宾馆", "里", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "他一直往学校走。",
+    "pinyin": "Tā yìzhí wǎng xuéxiào zǒu.",
+    "english": "He keeps walking toward the school.",
+    "tokens": ["他", "一直", "往", "学校", "走", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "我在路口等朋友。",
+    "pinyin": "Wǒ zài lùkǒu děng péngyou.",
+    "english": "I am waiting for a friend at the intersection.",
+    "tokens": ["我", "在", "路口", "等", "朋友", "。"],
+    "chapter": 13
+  },
+  {
+    "hanzi": "电视开着，桌子上有书和水。",
+    "pinyin": "Diànshì kāizhe, zhuōzi shàng yǒu shū hé shuǐ.",
+    "english": "The television is on, and there are books and water on the table.",
+    "tokens": ["电视", "开", "着", "，", "桌子", "上", "有", "书", "和", "水", "。"],
+    "chapter": 13
+  }
+]

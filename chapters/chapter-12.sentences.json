@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "弟弟喜欢睡觉。",
+    "pinyin": "Dìdi xǐhuan shuìjiào.",
+    "english": "My younger brother likes sleeping.",
+    "tokens": ["弟弟", "喜欢", "睡觉"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "我妻子喜欢唱歌。",
+    "pinyin": "Wǒ qīzi xǐhuan chànggē.",
+    "english": "My wife likes singing.",
+    "tokens": ["我", "妻子", "喜欢", "唱歌"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "外面下雪了，今天很冷。",
+    "pinyin": "Wàimian xiàxuě le, jīntiān hěn lěng.",
+    "english": "It snowed outside; it is very cold today.",
+    "tokens": ["外面", "下雪", "了", "今天", "很", "冷"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "今天零度，外面很冷。",
+    "pinyin": "Jīntiān líng dù, wàimian hěn lěng.",
+    "english": "It is zero degrees today, and it is very cold outside.",
+    "tokens": ["今天", "零", "度", "外面", "很", "冷"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "我妻子穿得很漂亮。",
+    "pinyin": "Wǒ qīzi chuān de hěn piàoliang.",
+    "english": "My wife is dressed very beautifully.",
+    "tokens": ["我", "妻子", "穿", "得", "很", "漂亮"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "弟弟进了房间看书。",
+    "pinyin": "Dìdi jìn le fángjiān kàn shū.",
+    "english": "My younger brother went into the room to read.",
+    "tokens": ["弟弟", "进", "了", "房间", "看", "书"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "这个房间离学校很近。",
+    "pinyin": "Zhège fángjiān lí xuéxiào hěn jìn.",
+    "english": "This room is very close to the school.",
+    "tokens": ["这", "个", "房间", "离", "学校", "很", "近"],
+    "chapter": 12
+  },
+  {
+    "hanzi": "弟弟穿得比我多。",
+    "pinyin": "Dìdi chuān de bǐ wǒ duō.",
+    "english": "My younger brother wears more than I do.",
+    "tokens": ["弟弟", "穿", "得", "比", "我", "多"],
+    "chapter": 12
+  }
+]

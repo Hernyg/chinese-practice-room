@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "我每天在教室学习。",
+    "pinyin": "Wǒ měi tiān zài jiàoshì xuéxí.",
+    "english": "I study in the classroom every day.",
+    "tokens": ["我", "每", "天", "在", "教室", "学习"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "他坐公共汽车去公司。",
+    "pinyin": "Tā zuò gōnggòng qìchē qù gōngsī.",
+    "english": "He takes the bus to the company.",
+    "tokens": ["他", "坐", "公共汽车", "去", "公司"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "我家离学校不远。",
+    "pinyin": "Wǒ jiā lí xuéxiào bù yuǎn.",
+    "english": "My home is not far from the school.",
+    "tokens": ["我", "家", "离", "学校", "不", "远"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "机场离我家很远。",
+    "pinyin": "Jīchǎng lí wǒ jiā hěn yuǎn.",
+    "english": "The airport is far from my home.",
+    "tokens": ["机场", "离", "我", "家", "很", "远"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "她坐飞机去北京。",
+    "pinyin": "Tā zuò fēijī qù Běijīng.",
+    "english": "She goes to Beijing by plane.",
+    "tokens": ["她", "坐", "飞机", "去", "北京"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "我走十分钟就到学校。",
+    "pinyin": "Wǒ zǒu shí fēnzhōng jiù dào xuéxiào.",
+    "english": "I walk for ten minutes and then reach the school.",
+    "tokens": ["我", "走", "十", "分钟", "就", "到", "学校"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "她今天要去商店。",
+    "pinyin": "Tā jīntiān yào qù shāngdiàn.",
+    "english": "She is going to the store today.",
+    "tokens": ["她", "今天", "要", "去", "商店"],
+    "chapter": 7
+  },
+  {
+    "hanzi": "他下午六点到公司。",
+    "pinyin": "Tā xiàwǔ liù diǎn dào gōngsī.",
+    "english": "He arrives at the company at six in the afternoon.",
+    "tokens": ["他", "下午", "六", "点", "到", "公司"],
+    "chapter": 7
+  }
+]

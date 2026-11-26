@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "我每天在家看书。",
+    "pinyin": "Wǒ měi tiān zài jiā kàn shū.",
+    "english": "I read at home every day.",
+    "tokens": ["我", "每", "天", "在", "家", "看", "书"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "她每天喝牛奶。",
+    "pinyin": "Tā měi tiān hē niúnǎi.",
+    "english": "She drinks milk every day.",
+    "tokens": ["她", "每", "天", "喝", "牛奶"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "他今天吃羊肉。",
+    "pinyin": "Tā jīntiān chī yángròu.",
+    "english": "He is eating mutton today.",
+    "tokens": ["他", "今天", "吃", "羊肉"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "我想吃面条。",
+    "pinyin": "Wǒ xiǎng chī miàntiáo.",
+    "english": "I want to eat noodles.",
+    "tokens": ["我", "想", "吃", "面条"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "因为下雨，所以我没去游泳。",
+    "pinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi qù yóuyǒng.",
+    "english": "Because it is raining, I did not go swimming.",
+    "tokens": ["因为", "下雨", "所以", "我", "没", "去", "游泳"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "她经常打篮球。",
+    "pinyin": "Tā jīngcháng dǎ lánqiú.",
+    "english": "She often plays basketball.",
+    "tokens": ["她", "经常", "打篮球"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "我姐姐在北京。",
+    "pinyin": "Wǒ jiějie zài Běijīng.",
+    "english": "My older sister is in Beijing.",
+    "tokens": ["我", "姐姐", "在", "北京"],
+    "chapter": 6
+  },
+  {
+    "hanzi": "他每天六点起床。",
+    "pinyin": "Tā měi tiān liù diǎn qǐchuáng.",
+    "english": "He gets up at six every day.",
+    "tokens": ["他", "每", "天", "六", "点", "起床"],
+    "chapter": 6
+  }
+]

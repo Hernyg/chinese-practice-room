@@ -74,10 +74,10 @@ if __name__ == '__main__':
     root = Path(__file__).resolve().parent
     assets = root / 'dist' / 'strokes'
     assets.mkdir(exist_ok=True)
-    writing = {character for lesson in load_writing_lessons(root / 'dist' / 'chapters')
+    writing = {character for lesson in load_writing_lessons(root / 'chapters')
                for word in lesson['words'] for character in word['hanzi']}
     data = (root / 'dist' / 'data.js').read_text(encoding='utf-8')
-    sentences = json.loads(data.strip().removeprefix('const DATA = ').removesuffix(';'))['sentences']
+    sentences = json.loads(data.removeprefix('const DATA = ').removesuffix(';'))['sentences']
     reading = {character for sentence in sentences
                for character in re.findall(r'[\u4e00-\u9fff]', sentence['hanzi'])}
     characters = sorted(writing | reading)

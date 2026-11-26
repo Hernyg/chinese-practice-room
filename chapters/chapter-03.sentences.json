@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "我的手表在房间里。",
+    "pinyin": "Wǒ de shǒubiǎo zài fángjiān lǐ.",
+    "english": "My watch is in the room.",
+    "tokens": ["我", "的", "手表", "在", "房间", "里"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "今天早上我喝牛奶。",
+    "pinyin": "Jīntiān zǎoshang wǒ hē niúnǎi.",
+    "english": "I drank milk this morning.",
+    "tokens": ["今天", "早上", "我", "喝", "牛奶"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "左边的杯子是红色的。",
+    "pinyin": "Zuǒbiān de bēizi shì hóngsè de.",
+    "english": "The cup on the left is red.",
+    "tokens": ["左边", "的", "杯子", "是", "红色", "的"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "我丈夫每天早上跑步。",
+    "pinyin": "Wǒ zhàngfu měi tiān zǎoshang pǎobù.",
+    "english": "My husband jogs every morning.",
+    "tokens": ["我", "丈夫", "每天", "早上", "跑步"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "我看一下今天的报纸。",
+    "pinyin": "Wǒ kàn yíxià jīntiān de bàozhǐ.",
+    "english": "I’ll take a quick look at today’s newspaper.",
+    "tokens": ["我", "看", "一下", "今天", "的", "报纸"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "桌子旁边有一个杯子。",
+    "pinyin": "Zhuōzi pángbiān yǒu yí ge bēizi.",
+    "english": "There is a cup beside the table.",
+    "tokens": ["桌子", "旁边", "有", "一个", "杯子"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "这个房间是粉色的。",
+    "pinyin": "Zhège fángjiān shì fěnsè de.",
+    "english": "This room is pink.",
+    "tokens": ["这个", "房间", "是", "粉色", "的"],
+    "chapter": 3
+  },
+  {
+    "hanzi": "我买了一个新杯子。",
+    "pinyin": "Wǒ mǎi le yí ge xīn bēizi.",
+    "english": "I bought a new cup.",
+    "tokens": ["我", "买", "了", "一个", "新", "杯子"],
+    "chapter": 3
+  }
+]

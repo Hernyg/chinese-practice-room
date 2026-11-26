@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "今天晚上我想在家吃鱼。",
+    "pinyin": "Jīntiān wǎnshang wǒ xiǎng zài jiā chī yú.",
+    "english": "I want to eat fish at home this evening.",
+    "tokens": ["今天", "晚上", "我", "想", "在", "家", "吃", "鱼"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "明天我们去商店买衣服。",
+    "pinyin": "Míngtiān wǒmen qù shāngdiàn mǎi yīfu.",
+    "english": "Tomorrow we are going to the store to buy clothes.",
+    "tokens": ["明天", "我们", "去", "商店", "买", "衣服"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "这件衣服的颜色不错。",
+    "pinyin": "Zhè jiàn yīfu de yánsè bùcuò.",
+    "english": "The color of this piece of clothing is pretty good.",
+    "tokens": ["这", "件", "衣服", "的", "颜色", "不错"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "这件衣服有点儿大，我不买。",
+    "pinyin": "Zhè jiàn yīfu yǒudiǎnr dà, wǒ bù mǎi.",
+    "english": "This piece of clothing is a little big, so I will not buy it.",
+    "tokens": ["这", "件", "衣服", "有点儿", "大", "我", "不", "买"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "我觉得考试以后要休息。",
+    "pinyin": "Wǒ juéde kǎoshì yǐhòu yào xiūxi.",
+    "english": "I think I need to rest after the exam.",
+    "tokens": ["我", "觉得", "考试", "以后", "要", "休息"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "我不喜欢喝咖啡，我喜欢喝茶。",
+    "pinyin": "Wǒ bù xǐhuan hē kāfēi, wǒ xǐhuan hē chá.",
+    "english": "I do not like coffee; I like tea.",
+    "tokens": ["我", "不", "喜欢", "喝", "咖啡", "我", "喜欢", "喝", "茶"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "她每天在家喝咖啡。",
+    "pinyin": "Tā měitiān zài jiā hē kāfēi.",
+    "english": "She drinks coffee at home every day.",
+    "tokens": ["她", "每天", "在", "家", "喝", "咖啡"],
+    "chapter": 5
+  },
+  {
+    "hanzi": "我想买一件衣服，不想买两件。",
+    "pinyin": "Wǒ xiǎng mǎi yí jiàn yīfu, bù xiǎng mǎi liǎng jiàn.",
+    "english": "I want to buy one piece of clothing, not two.",
+    "tokens": ["我", "想", "买", "一", "件", "衣服", "不", "想", "买", "两", "件"],
+    "chapter": 5
+  }
+]

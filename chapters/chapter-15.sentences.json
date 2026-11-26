@@ -1,0 +1,58 @@
+[
+  {
+    "hanzi": "今天是十二月二十日，新年就要到了。",
+    "pinyin": "Jīntiān shì shí'èr yuè èrshí rì, xīnnián jiù yào dào le.",
+    "english": "Today is December 20, and the New Year is coming soon.",
+    "tokens": ["今天", "是", "十", "二", "月", "二十", "日", "，", "新年", "就", "要", "到", "了", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "新年我想去北京旅游。",
+    "pinyin": "Xīnnián wǒ xiǎng qù Běijīng lǚyóu.",
+    "english": "I want to travel to Beijing for the New Year.",
+    "tokens": ["新年", "我", "想", "去", "北京", "旅游", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "我还没有买票，明天去火车站买票。",
+    "pinyin": "Wǒ hái méiyǒu mǎi piào, míngtiān qù huǒchēzhàn mǎi piào.",
+    "english": "I haven't bought a ticket yet; tomorrow I will go to the train station to buy one.",
+    "tokens": ["我", "还", "没有", "买", "票", "，", "明天", "去", "火车站", "买", "票", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "大家都帮助我。",
+    "pinyin": "Dàjiā dōu bāngzhù wǒ.",
+    "english": "Everyone helps me.",
+    "tokens": ["大家", "都", "帮助", "我", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "我妹妹想去北京旅游。",
+    "pinyin": "Wǒ mèimei xiǎng qù Běijīng lǚyóu.",
+    "english": "My younger sister wants to travel to Beijing.",
+    "tokens": ["我", "妹妹", "想", "去", "北京", "旅游", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "今天阴，明天要下雨了。",
+    "pinyin": "Jīntiān yīn, míngtiān yào xiàyǔ le.",
+    "english": "It is cloudy today; it is going to rain tomorrow.",
+    "tokens": ["今天", "阴", "，", "明天", "要", "下雨", "了", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "今天的天气更好。",
+    "pinyin": "Jīntiān de tiānqì gèng hǎo.",
+    "english": "Today's weather is even better.",
+    "tokens": ["今天", "的", "天气", "更", "好", "。"],
+    "chapter": 15
+  },
+  {
+    "hanzi": "新年我们都很高兴。",
+    "pinyin": "Xīnnián wǒmen dōu hěn gāoxìng.",
+    "english": "We are all very happy in the New Year.",
+    "tokens": ["新年", "我们", "都", "很", "高兴", "。"],
+    "chapter": 15
+  }
+]

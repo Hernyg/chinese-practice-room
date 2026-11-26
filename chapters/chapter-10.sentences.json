@@ -1,0 +1,123 @@
+[
+  {
+    "hanzi": "哥哥今天有汉语课。",
+    "pinyin": "Gēge jīntiān yǒu Hànyǔ kè.",
+    "english": "My elder brother has Chinese class today.",
+    "tokens": [
+      "哥哥",
+      "今天",
+      "有",
+      "汉语",
+      "课"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "多听汉语对学习很有帮助。",
+    "pinyin": "Duō tīng Hànyǔ duì xuéxí hěn yǒu bāngzhù.",
+    "english": "Listening to a lot of Chinese is very helpful for learning.",
+    "tokens": [
+      "多",
+      "听",
+      "汉语",
+      "对",
+      "学习",
+      "很",
+      "有",
+      "帮助"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "别在家里看手机。",
+    "pinyin": "Bié zài jiālǐ kàn shǒujī.",
+    "english": "Don’t look at your phone at home.",
+    "tokens": [
+      "别",
+      "在",
+      "家",
+      "里",
+      "看",
+      "手机",
+      "。"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "我买了三个鸡蛋。",
+    "pinyin": "Wǒ mǎi le sān ge jīdàn.",
+    "english": "I bought three eggs.",
+    "tokens": [
+      "我",
+      "买",
+      "了",
+      "三",
+      "个",
+      "鸡蛋"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "姐姐正在洗衣服。",
+    "pinyin": "Jiějie zhèngzài xǐ yīfu.",
+    "english": "My elder sister is washing clothes.",
+    "tokens": [
+      "姐姐",
+      "正在",
+      "洗",
+      "衣服",
+      "。"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "爸爸买了一个西瓜。",
+    "pinyin": "Bàba mǎi le yí ge xīguā.",
+    "english": "Dad bought a watermelon.",
+    "tokens": [
+      "爸爸",
+      "买",
+      "了",
+      "一",
+      "个",
+      "西瓜"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "上课的时候，你别看手机。",
+    "pinyin": "Shàng kè de shíhou, nǐ bié kàn shǒujī.",
+    "english": "Don’t look at your phone during class.",
+    "tokens": [
+      "上",
+      "课",
+      "的",
+      "时候",
+      "，",
+      "你",
+      "别",
+      "看",
+      "手机",
+      "。"
+    ],
+    "chapter": 10
+  },
+  {
+    "hanzi": "哥哥正在准备考试，姐姐在洗衣服。",
+    "pinyin": "Gēge zhèngzài zhǔnbèi kǎoshì, jiějie zài xǐ yīfu.",
+    "english": "My elder brother is preparing for an exam, and my elder sister is washing clothes.",
+    "tokens": [
+      "哥哥",
+      "正在",
+      "准备",
+      "考试",
+      "，",
+      "姐姐",
+      "在",
+      "洗",
+      "衣服",
+      "。"
+    ],
+    "chapter": 10
+  }
+]

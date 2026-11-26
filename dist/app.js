@@ -5,8 +5,7 @@ const sentencesById = new Map(DATA.sentences.map(sentence => [sentence.id, sente
 const grammarById = new Map(DATA.grammar.map(point => [point.id, point]));
 const wordByHanzi = new Map([...DATA.foundation, ...DATA.words].map(word => [word.hanzi, word]));
 let pinyinMode = false;
-const lastChapter = Math.max(...DATA.words.map(word => word.chapter));
-let chapter = 1;
+let chapter = 7;
 let focusChapter = false;
 let current = null;
 let pool = [];
@@ -14,7 +13,7 @@ let seen = new Set();
 let recent = [];
 try {
   const savedChapter = Number(localStorage.getItem('reading-chapter'));
-  if (Number.isInteger(savedChapter) && savedChapter >= 1 && savedChapter <= lastChapter) {
+  if (Number.isInteger(savedChapter) && savedChapter >= 1 && savedChapter <= 15) {
     chapter = savedChapter;
   }
   focusChapter = localStorage.getItem('reading-focus-chapter') === 'true';
@@ -71,7 +70,11 @@ function renderPattern() {
     form.textContent = point.form;
     const explanation = document.createElement('p');
     explanation.textContent = point.explanation;
-    $('pattern-content').append(form, explanation);
+    const source = document.createElement('small');
+    const pageLabel = point.printedPages.length === 1 ? 'p.' : 'pp.';
+    source.textContent = 'Chapter ' + point.chapter + ' · ' + pageLabel + ' '
+      + point.printedPages.join(', ') + (current.generated ? ' · Generated practice example' : '');
+    $('pattern-content').append(form, explanation, source);
   }
 }
 
@@ -204,11 +207,11 @@ function bank() {
 function update() {
   $('chapter').value = chapter;
   $('chapter').setAttribute('aria-valuetext', 'Chapters 1 through ' + chapter);
-  $('value').innerHTML = chapter + ' <span>/ ' + lastChapter + '</span>';
+  $('value').innerHTML = chapter + ' <span>/ 15</span>';
   $('focus-chapter').checked = focusChapter;
   $('coverage').textContent = focusChapter
     ? 'Every sentence uses at least one word introduced in chapter ' + chapter + '.'
-    : 'Using vocabulary and grammar from chapters 1–' + chapter + '.';
+    : 'Using vocabulary and grammar from chapters 1–' + chapter + ', plus HSK 1 basics.';
   const chapterWords = new Set(DATA.words.filter(word => word.chapter === chapter).map(word => word.hanzi));
   pool = DATA.sentences.filter(sentence => sentence.minimumChapter <= chapter
     && (!focusChapter || sentence.tokens.some(token => chapterWords.has(token))));
