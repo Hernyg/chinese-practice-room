@@ -1,0 +1,46 @@
+.writing { max-width: 760px; }
+.writing h1 { margin: 0 0 24px; }
+.writing-settings { display: flex; align-items: end; flex-wrap: wrap; gap: 16px 24px; margin-bottom: 20px; }
+.writing-settings fieldset { margin: 0; padding: 0; border: 0; }
+.writing-settings legend { margin-bottom: 8px; padding: 0; font-weight: 600; }
+.writing-settings fieldset label { display: inline-flex; align-items: center; min-height: 44px; padding-right: 12px; }
+.writing-settings input { accent-color: #236b5d; margin: 0 6px 0 0; }
+.writing-settings :focus-visible { outline: 3px solid #a86623; outline-offset: 4px; }
+.writing-card {
+  min-height: 330px; padding: 20px clamp(16px, 4vw, 40px) 28px;
+  background: white; border: 1px solid #d9e0d6; border-top: 4px solid #236b5d;
+  border-radius: 8px; text-align: center;
+}
+#progress { color: #5e7067; font-size: 14px; margin: 0; }
+#prompt {
+  margin: 32px 0; font: 600 clamp(40px, 9vw, 64px)/1.25 Georgia, "Microsoft YaHei", "PingFang SC", serif;
+  overflow-wrap: anywhere;
+}
+#prompt[lang="zh-Hans"], #translation[lang="zh-Hans"] { font-family: "Microsoft YaHei", "PingFang SC", sans-serif; }
+#prompt.revealed { margin: 16px 0 8px; }
+#prompt[hidden] { display: none; }
+#translation { margin: 0; font-size: clamp(28px, 7vw, 48px); color: #236b5d; }
+#meaning { margin: 10px 0 18px; }
+.stroke-grid { display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 14px auto 22px; }
+.stroke-grid figure { margin: 0; }
+.stroke-grid img { display: block; width: clamp(68px, 20vw, 126px); height: auto; }
+.stroke-grid figcaption { margin-top: 3px; }
+.ratings { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-top: 20px; }
+.ratings button { padding: 8px 3px; font-weight: 600; }
+.ratings small { display: block; color: #5e7067; font-weight: 400; }
+#waiting { margin: 40px auto; max-width: 32ch; }
+.writing-meta { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 12px; color: #5e7067; }
+#restart { border: 0; background: transparent; text-decoration: underline; padding: 6px 0; }
+
+/* Use one Latin font for pinyin, including precomposed tone-mark vowels. */
+#prompt[lang="zh-Latn-pinyin"], #translation[lang="zh-Latn-pinyin"] {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: normal;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+.writing-card:focus { outline: none; }
+#reveal:focus { outline: none; }

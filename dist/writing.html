@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Writing Practice · Chinese Practice Room</title>
+  <link rel="icon" type="image/png" sizes="56x56" href="reading-room-square.png">
+  <link rel="stylesheet" href="style.css?v=3">
+  <link rel="stylesheet" href="writing.css?v=5">
+</head>
+<body>
+  <header><div class="identity"><span class="seal" lang="zh">学</span><div><strong>Chinese Practice Room</strong><small>Sample lessons</small></div></div><nav aria-label="Practice activities"><span class="nav-label">Practice</span><a href="index.html?v=20261120-2">Reading</a><a href="writing.html?v=20261120-2" aria-current="page">Writing</a></nav></header>
+  <main class="writing">
+    <h1>Writing Practice</h1>
+    <section class="curriculum">
+      <div class="row"><label for="lesson">Study through lesson</label><output id="value" for="lesson">1 <span>/ 2</span></output></div>
+      <input id="lesson" type="range" min="1" max="2" value="1" step="1">
+      <div class="ends"><span>1</span><span>2</span></div>
+      <label class="chapter-focus"><input id="focus-lesson" type="checkbox" role="switch" aria-describedby="coverage"> Focus on this lesson</label>
+      <p id="coverage"></p>
+    </section>
+    <div class="writing-settings">
+      <fieldset>
+        <legend>Prompt</legend>
+        <label><input type="radio" name="direction" value="pinyin" checked> Pinyin first</label>
+        <label><input type="radio" name="direction" value="hanzi"> Hanzi first</label>
+      </fieldset>
+    </div>
+    <section id="flashcard" class="writing-card" aria-label="Flashcard" tabindex="-1">
+      <p id="progress" role="status"></p>
+      <p id="prompt" aria-live="polite"></p>
+      <div id="answer" aria-live="polite" hidden>
+        <p id="translation"></p>
+        <p id="meaning"></p>
+        <div id="strokes" class="stroke-grid"></div>
+        <button id="animate" type="button" hidden>Play stroke order</button>
+      </div>
+      <button id="reveal" type="button" class="primary" aria-controls="answer" aria-expanded="false">Show answer</button>
+      <div id="ratings" class="ratings" aria-label="Rate your answer" hidden></div>
+      <div id="waiting" role="status" hidden></div>
+    </section>
+    <div class="writing-meta">
+      <small>Space to reveal · 1–4 to rate</small>
+      <button id="restart" type="button">Restart practice</button>
+    </div>
+    <footer><a href="strokes/LICENSE.txt">Stroke data credits</a></footer>
+  </main>
+  <script src="writing-data.js"></script>
+  <script src="writing.js?v=7"></script>
+</body>
+</html>
